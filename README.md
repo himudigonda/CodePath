@@ -17,6 +17,7 @@ This repository is dedicated to storing solutions, notes, and exercises from eac
 | Session | Notebook | Link |
 |---------|----------|------|
 | Session1 | Standard1.ipynb | [Standard1.ipynb](Unit%201/Session1/Standard1.ipynb) |
+| Session1 | Standard2.ipynb | [Standard2.ipynb](Unit%201/Session1/Standard2.ipynb) |
 | Session2 | *No notebooks yet* | |
 
 ### Unit 2
