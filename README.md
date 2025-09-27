@@ -16,15 +16,16 @@ This repository is dedicated to storing solutions, notes, and exercises from eac
 
 | Session | Notebook | Link |
 |---------|----------|------|
+| Session1 | Advanced1.ipynb | [Advanced1.ipynb](Unit%201/Session1/Advanced1.ipynb) |
+| Session1 | Advanced2.ipynb | [Advanced2.ipynb](Unit%201/Session1/Advanced2.ipynb) |
 | Session1 | Standard1.ipynb | [Standard1.ipynb](Unit%201/Session1/Standard1.ipynb) |
 | Session1 | Standard2.ipynb | [Standard2.ipynb](Unit%201/Session1/Standard2.ipynb) |
-| Session2 | *No notebooks yet* | |
+| Session2 | Advanced1.ipynb | [Advanced1.ipynb](Unit%201/Session2/Advanced1.ipynb) |
 
 ### Unit 2
 
 | Session | Notebook | Link |
 |---------|----------|------|
-| Session3 | *No notebooks yet* | |
-| Session4 | *No notebooks yet* | |
+| Session1 | Standard1.ipynb | [Standard1.ipynb](Unit%202/Session1/Standard1.ipynb) |
 
 *This table is automatically updated by `update_table.py`.*
