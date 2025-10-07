@@ -38,7 +38,7 @@ This repository is dedicated to storing solutions, notes, and exercises from eac
 
 | Session | Notebook | Link |
 |---------|----------|------|
-| Session1 | *No notebooks yet* | |
+| Session1 | Standard2.ipynb | [Standard2.ipynb](Unit%203/Session1/Standard2.ipynb) |
 | Session2 | *No notebooks yet* | |
 
 *This table is automatically updated by `update_table.py`.*
