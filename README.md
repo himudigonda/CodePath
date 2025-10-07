@@ -32,6 +32,7 @@ This repository is dedicated to storing solutions, notes, and exercises from eac
 |---------|----------|------|
 | Session1 | Advanced1.ipynb | [Advanced1.ipynb](Unit%202/Session1/Advanced1.ipynb) |
 | Session1 | Standard1.ipynb | [Standard1.ipynb](Unit%202/Session1/Standard1.ipynb) |
+| Session1 | Standard2.ipynb | [Standard2.ipynb](Unit%202/Session1/Standard2.ipynb) |
 | Session2 | Advanced2.ipynb | [Advanced2.ipynb](Unit%202/Session2/Advanced2.ipynb) |
 
 ### Unit 3
