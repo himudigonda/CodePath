@@ -9,9 +9,13 @@ This repository is dedicated to storing solutions, notes, and exercises from eac
 
 ## Table of Contents
 
-- [Unit 1](#unit-1)
-- [Unit 2](#unit-2)
-- [Unit 3](#unit-3)
+- [CodePath Practice Repository](#codepath-practice-repository)
+  - [Structure](#structure)
+  - [Table of Contents](#table-of-contents)
+    - [Unit 1](#unit-1)
+    - [Unit 2](#unit-2)
+    - [Unit 3](#unit-3)
+    - [Unit 5](#unit-5)
 
 ### Unit 1
 
@@ -40,6 +44,12 @@ This repository is dedicated to storing solutions, notes, and exercises from eac
 | Session | Notebook | Link |
 |---------|----------|------|
 | Session1 | Standard2.ipynb | [Standard2.ipynb](Unit%203/Session1/Standard2.ipynb) |
+
+### Unit 5
+
+| Session | Notebook | Link |
+|---------|----------|------|
+| Session1 | Advanced1.ipynb | [Advanced1.ipynb](Unit%205/Session1/Advanced1.ipynb) |
 | Session2 | *No notebooks yet* | |
 
 *This table is automatically updated by `update_table.py`.*
