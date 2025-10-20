@@ -15,6 +15,7 @@ This repository is dedicated to storing solutions, notes, and exercises from eac
     - [Unit 1](#unit-1)
     - [Unit 2](#unit-2)
     - [Unit 3](#unit-3)
+    - [Unit 4](#unit-4)
     - [Unit 5](#unit-5)
 
 ### Unit 1
@@ -50,6 +51,12 @@ This repository is dedicated to storing solutions, notes, and exercises from eac
 | Session1 | Standard1.ipynb | [Standard1.ipynb](Unit%203/Session1/Standard1.ipynb) |
 | Session1 | Standard2.ipynb | [Standard2.ipynb](Unit%203/Session1/Standard2.ipynb) |
 | Session2 | Standard1.ipynb | [Standard1.ipynb](Unit%203/Session2/Standard1.ipynb) |
+
+### Unit 4
+
+| Session | Notebook | Link |
+|---------|----------|------|
+| Session1-Async | Standard1.ipynb | [Standard1.ipynb](Unit%204/Session1-Async/Standard1.ipynb) |
 
 ### Unit 5
 
