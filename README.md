@@ -14,6 +14,7 @@ This repository is dedicated to storing solutions, notes, and exercises from eac
 - [Unit 3](#unit-3)
 - [Unit 4](#unit-4)
 - [Unit 5](#unit-5)
+- [Unit 6](#unit-6)
 
 ### Unit 1
 
@@ -69,5 +70,11 @@ This repository is dedicated to storing solutions, notes, and exercises from eac
 | Session1 | Standard2.ipynb | [Standard2.ipynb](Unit%205/Session1/Standard2.ipynb) |
 | Session2 | Advanced2.ipynb | [Advanced2.ipynb](Unit%205/Session2/Advanced2.ipynb) |
 | Session2 | Standard2.ipynb | [Standard2.ipynb](Unit%205/Session2/Standard2.ipynb) |
+
+### Unit 6
+
+| Session | Notebook | Link |
+|---------|----------|------|
+| Session2 | Advanced2.ipynb | [Advanced2.ipynb](Unit%206/Session2/Advanced2.ipynb) |
 
 *This table is automatically updated by `update_table.py`.*
