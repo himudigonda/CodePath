@@ -50,6 +50,7 @@ This repository is dedicated to storing solutions, notes, and exercises from eac
 | Session1 | Standard1.ipynb | [Standard1.ipynb](Unit%203/Session1/Standard1.ipynb) |
 | Session1 | Standard2.ipynb | [Standard2.ipynb](Unit%203/Session1/Standard2.ipynb) |
 | Session2 | Standard1.ipynb | [Standard1.ipynb](Unit%203/Session2/Standard1.ipynb) |
+| Session2 | Standard2.ipynb | [Standard2.ipynb](Unit%203/Session2/Standard2.ipynb) |
 
 ### Unit 4
 
