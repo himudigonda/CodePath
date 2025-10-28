@@ -91,6 +91,7 @@ This repository is dedicated to storing solutions, notes, and exercises from eac
 
 | Session | Notebook | Link |
 |---------|----------|------|
+| Session1 | Advanced2.ipynb | [Advanced2.ipynb](Unit%207/Session1/Advanced2.ipynb) |
 | Session1 | Standard1.ipynb | [Standard1.ipynb](Unit%207/Session1/Standard1.ipynb) |
 | Session2 | *No notebooks yet* | |
 
