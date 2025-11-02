@@ -71,7 +71,7 @@
 #### Session 1(Async)
 - [x] Standard 1
 - [x] Standard 2
-- [todo] Advanced 1
+- [x] Advanced 1
 - [todo] Advanced 2
 
 #### Session 2
