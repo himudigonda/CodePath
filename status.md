@@ -78,7 +78,7 @@
 - [x] Standard 1
 - [x] Standard 2
 - [x] Advanced 1
-- [??] Advanced 2
+- [x] Advanced 2
 
 
 #### Hackerrank
