@@ -64,6 +64,7 @@ This repository is dedicated to storing solutions, notes, and exercises from eac
 | Session | Notebook | Link |
 |---------|----------|------|
 | Session1-Async | Advanced1.ipynb | [Advanced1.ipynb](Unit%204/Session1-Async/Advanced1.ipynb) |
+| Session1-Async | Advanced2.ipynb | [Advanced2.ipynb](Unit%204/Session1-Async/Advanced2.ipynb) |
 | Session1-Async | Standard1.ipynb | [Standard1.ipynb](Unit%204/Session1-Async/Standard1.ipynb) |
 | Session1-Async | Standard2.ipynb | [Standard2.ipynb](Unit%204/Session1-Async/Standard2.ipynb) |
 | Session2 | Advanced1.ipynb | [Advanced1.ipynb](Unit%204/Session2/Advanced1.ipynb) |
