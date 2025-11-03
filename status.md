@@ -148,6 +148,28 @@
 - [todo] Advanced 2
 
 #### Hackerrank
+- [x] Standard A
+- [o] Standard B
+- [o] Advanced A
+- [o] Advanced B
+
+---
+
+### Unit 8
+
+#### Session 1
+- [x] Standard 1
+- [todo] Standard 2
+- [todo] Advanced 1
+- [todo] Advanced 2
+
+#### Session 2
+- [todo] Standard 1
+- [todo] Standard 2
+- [todo] Advanced 1
+- [todo] Advanced 2
+
+#### Hackerrank
 - [o] Standard A
 - [o] Standard B
 - [o] Advanced A
